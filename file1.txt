@@ -1,1 +1,3 @@
-added 3rd line.
+file 1 content
+my second line
+Added third line
